@@ -1,2 +1,1 @@
-# A_Correlation_Recursive_Feature_Elimination_Based_Feature_Selection_Method
-Provides complete information to user about Olympic Games up to 2024. User will get in-depth knowledge about the history, statistics, and performances of athletes &amp; nations participating in the Olympics
+This project focuses on classifying Pearson disease using a dataset with 756 features. The aim is to evaluate the performance of various machine learning models both before and after applying a hybrid feature selection method. The project involves the application of correlation feature selection followed by recursive feature elimination (RFE) to enhance model performance and interpretability.
